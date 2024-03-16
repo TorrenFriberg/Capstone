@@ -1,0 +1,28 @@
+.main-background {
+    background-image: url(./Mosaicbackground.png)
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+}
+
+.btn {
+    background-color:grey;
+}
+
+.profilepic {
+    border-radius: 50%;
+}
+
+.card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
